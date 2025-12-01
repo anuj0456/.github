@@ -1,2 +1,3 @@
-👉 Building PilottAI — Open-source Agentic AI framework  
-⭐ Star the repo: github.com/pilottai/pilottai
+👉 Building **PilottAI** — Open-source Agentic AI framework  
+⭐ Star the repo: [pilottai/pilottai](https://github.com/pilottai/pilottai)
+
