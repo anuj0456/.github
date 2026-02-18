@@ -40,9 +40,8 @@ These are my most important and active projects:
 ## 📫 Let's Connect!
 
 - **GitHub**: [@anuj0456](https://github.com/anuj0456)
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [@your-handle]
+- **LinkedIn**: [@anuj0456]
+- **Twitter**: [@anuj0456]
 
 ## 💡 What I'm Working On
 
