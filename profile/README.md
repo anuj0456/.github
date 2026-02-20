@@ -9,7 +9,7 @@ These are my most important and active projects:
 ### 🔝 Projects
 
 - **[AlphaClaw](https://github.com/anuj0456/alphaclaw)** - Advanced AI-powered project showcasing cutting-edge solutions
-- **[PilotAI](https://github.com/anuj0456/pilottai)** - Intelligent pilot system with AI capabilities
+- **[PilottAI](https://github.com/anuj0456/pilottai)** - Intelligent pilot system with AI capabilities
 - **[AILert](https://github.com/anuj0456/ailert)** - Alert system powered by artificial intelligence
 - **[ArXiv MCP Server](https://github.com/anuj0456/arxiv-mcp-server)** - Model Context Protocol server for ArXiv research papers
 - **[Kaggle](https://github.com/anuj0456/kaggle)** - Kaggle competition solutions and datasets
